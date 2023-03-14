@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+For a strange reason you have came across my personal page. Thank you for visiting anyway!
+
 I'm currently a master student at TUM learning robotics, cognition and intelligence. 
 
 Currently new to the field of humaniod robotics and ready to explore it! I want to explore the possibility to combine artificial intelligence to build better robots! 
