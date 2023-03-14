@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm currently a master student at TUM learning robotics, cognition and intelligence. 
+
+Currently new to the field of humaniod robotics and ready to explore it! I want to explore the possibility to combine artificial intelligence to build better robots! 
+
+You can visit my blog at: https://www.introspector.ink and my private gitea server at https://git.introspector.ink.
+
+Feel free to reach me with jiaye.yang@tum.de.
 <!--
 **TangdizhiH/TangdizhiH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
