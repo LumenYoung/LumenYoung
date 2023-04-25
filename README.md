@@ -21,7 +21,7 @@ In the meantime, I'm also a great enthusiatist to the open source software and l
 
 You can visit my wordpress blog at: https://www.introspector.ink.
 
-I also using [xlog](https://xlog.app/), it is a blockchain based, open source blogging system. You can visit my xblog at https://xlog.introspector.ink
+I also using [xlog](https://xlog.app/), it is a blockchain based, open source blogging system. You can visit my xblog at https://www.lumeny.io
 
 
 ### Contact
