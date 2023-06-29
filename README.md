@@ -1,5 +1,9 @@
 # Lumen's GitHub homepage
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LumenYoung&hide=prs&count_private=true&show_icons=true&theme=graywhite&rank_icon=github" />
+</a>
+
 ## Hi there 👋
 
 For a strange reason you have came across my personal page. Thank you for visiting anyway!
