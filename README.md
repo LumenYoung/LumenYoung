@@ -1,4 +1,4 @@
-# Lumen's GitHub homepage
+# Lumen's GitHub homepage <a title="Hits" target="_blank" href="https://github.com/LumenYoung"><img src="https://hits.b3log.org/88250/hits.svg"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=LumenYoung&hide=prs&count_private=true&show_icons=true&theme=graywhite&rank_icon=github" />
