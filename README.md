@@ -10,7 +10,7 @@ For a strange reason you have came across my personal page. Thank you for visiti
 
 Currently doing my Master Thesis! I want to explore the possibility to combine artificial intelligence to build better robots! 
 
-In the meantime, I'm also a great enthusiatist to the open source software and linux. I'm a daily Archlinux user and like all sorts of fun stuff from self-hosting. I appreciate all the amazing open-source softwares, their tireless efforts enable me to bring back the controll of my data.
+In the meantime, I'm also a great enthusiatist to the open source software and linux. I'm a daily Archlinux user and like all sorts of fun stuff from self-hosting. I appreciate all the amazing open-source softwares, their tireless efforts enable me to enjoy all the convenience offered by modern softwares while maintaining a personal space that I can call my own. 
 
 ### Studying
 
