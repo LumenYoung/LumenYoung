@@ -8,25 +8,20 @@
 
 For a strange reason you have came across my personal page. Thank you for visiting anyway!
 
+Currently doing my Master Thesis! I want to explore the possibility to combine artificial intelligence to build better robots! 
 
-Currently new to the field of humaniod robotics and ready to explore it! I want to explore the possibility to combine artificial intelligence to build better robots! 
-
-In the meantime, I'm also a great enthusiatist to the open source software and linux. I'm a daily Archlinux user and like all sorts of fun stuff from self-hosting.
-
-### Working
-
-- 🔭 I'm currently working at Pro7 as a working student on AI product
+In the meantime, I'm also a great enthusiatist to the open source software and linux. I'm a daily Archlinux user and like all sorts of fun stuff from self-hosting. I appreciate all the amazing open-source softwares, their tireless efforts enable me to bring back the controll of my data.
 
 ### Studying
 
-- 🌱 I'm currently a master student at TUM learning robotics, cognition and intelligence. 
+- I'm currently a master student at TUM learning robotics, cognition and intelligence.
+- I'm starting my Master Thesis at Robot Learning lab in University of Freiburg
 
 ### Blogging
 
 You can visit my wordpress blog at: https://www.introspector.ink.
 
 I also using [xlog](https://xlog.app/), it is a blockchain based, open source blogging system. You can visit my xblog at https://www.lumeny.io
-
 
 ### Contact
 
