@@ -6,7 +6,7 @@ For a strange reason you have came across my personal page. Thank you for visiti
 
 I'm currently a master student at Technical University of Munich. I'm studying Robotics, Cognition and Intelligence and my main interest is to explore the possibility to combine artificial intelligence to build better robots! Currently I'm writing my Master Thesis at Robot Learning lab in University of Freiburg.
 
-In the meantime, I'm also an enthusiatist to the open source software and linux. I'm a daily Archlinux user and like all sorts of fun stuff from self-hosting. I appreciate all the amazing open-source softwares, enable me to enjoy all the convenience offered by modern softwares while maintaining a personal space that I can call my own. 
+In the meantime, I'm also an enthusiatist to the open source software and linux. I'm a daily Archlinux user and like all sorts of fun stuff from self-hosting. I appreciate all the amazing open-source softwares, allow me to enjoy all the convenience offered by modern softwares while maintaining a personal space that I can call my own. 
 
 ### Blogging
 
@@ -17,6 +17,7 @@ I also using [xlog](https://xlog.app/), it is a blockchain based, open source bl
 ### Contact
 
 - 📫 Feel free to reach me with jiaye.yang@proton.me.
+
 <!--
 **TangdizhiH/TangdizhiH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
