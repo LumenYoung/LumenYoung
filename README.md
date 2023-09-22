@@ -16,7 +16,7 @@ I also using [xlog](https://xlog.app/), it is a blockchain based, open source bl
 
 ### Contact
 
-- 📫 Feel free to reach me with jiaye.yang@proton.me.
+- 📫 Feel free to reach me with jiaye.yang@pm.me.
 
 <!--
 **TangdizhiH/TangdizhiH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
