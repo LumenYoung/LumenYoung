@@ -10,9 +10,7 @@ In the meantime, I'm also an enthusiatist to the open source software and linux.
 
 ## Blogging
 
-You can visit my wordpress blog at: https://www.introspector.ink.
-
-I also using [xlog](https://xlog.app/), it is a blockchain based, open source blogging system. You can visit my xlog blog at https://www.lumeny.io .
+You can visit my blog at: https://www.lumeny.io. I also post my blogs on [xlog](https://xlog.app/), it is a blockchain based, open source blogging system.
 
 ## Contact
 
