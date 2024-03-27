@@ -12,13 +12,13 @@ In the meantime, I'm also an enthusiatist to the open source software and linux.
 
 You can visit my blog at: https://www.lumeny.io. 
 
-I blog in both Chinese and English (Whichever I feel like). 
+I blog in both Chinese and English, whichever I feel like when I am writing. 
 
-The same blog post is also available on [xlog](https://xlog.app/), it offers AI generated translation of my blog posts written in Chinese.
+The same blog post is also available on [xlog](https://xlog.app/), which offers AI generated translation of my blog posts written in Chinese.
 
 ## Contact
 
-- 📫 Feel free to reach me with jiaye.yang@pm.me.
+- 📫 Feel free to reach me with jiaye.yang [at] pm.me.
 
 <!--
 **TangdizhiH/TangdizhiH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
